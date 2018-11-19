@@ -1,0 +1,13 @@
+.documentBox {
+}
+
+.metadataBox {
+}
+
+span.namedEntity {
+  background-color: yellow;
+}
+
+span.selectedSpan {
+  text-decoration: underline;
+}
